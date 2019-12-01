@@ -1,3 +1,5 @@
+#include <stdint.h>
+
 #ifndef _CAYENNE_LPP_H_
 #define _CAYENNE_LPP_H_
 

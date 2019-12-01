@@ -1,3 +1,5 @@
+#include <stdlib.h>
+#include <string.h>
 #include "CayenneLPP.h"
 
 CayenneLPP::CayenneLPP(uint8_t size) : maxsize(size) {
